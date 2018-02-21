@@ -42,7 +42,7 @@ PrefsRevisionGUID=
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
+AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=0
@@ -125,6 +125,23 @@ DocumentUniqueId=
 
 [Document6]
 DocumentPath=CRF18-1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TRWKODUX
+
+[Document7]
+DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -305,7 +322,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 Name=Documentation Outputs
 Description=
 TargetPrinter=Virtual Printer
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
@@ -946,7 +963,7 @@ Type6=2
 Type7=1
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
@@ -1052,7 +1069,7 @@ Type112=1
 Type113=1
 
 [ERC Connection Matrix]
-L1=NNNNNNNNNNNWNNNWW
+L1=NNNNNNNNNNNWNNWWW
 L2=NNWNNNNWWWNWNWNWE
 L3=NWEENEEEENEWNEEWE
 L4=NNENNNWEENNWNENWE
@@ -1066,7 +1083,7 @@ L11=NNENNNNEEENWNENWE
 L12=WWWWNWWNWWWNWWWNE
 L13=NNNNNNNNNNNWNNNWE
 L14=NWEENEEEENEWNEEWE
-L15=NNENNNNEEENWNENWE
+L15=WNENNNNEEENWNENWE
 L16=WWWWNWWNWWWNWWWNE
 L17=WEEEEEEEEEEEEEEEE
 
